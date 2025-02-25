@@ -1,0 +1,92 @@
+#Part 1: Introduction to Software Engineering
+
+Explain what software engineering is and discuss its importance in the technology industry.
+This is the writing instructions for computres,creating apps, games and websites to help solve problem.
+
+
+Identify and describe at least three key milestones in the evolution of software engineering.
+ Rise of Object - orientad programing.
+ The Agile Revolution 
+The Birth of Software Engineering (1968) 
+
+List and briefly explain the phases of the Software Development Life Cycle.
+Problem identification
+Planning – Define the project's goals, timeline, and resources.
+Requirement Analysis – Gather and document what the software should do.
+Design – Create a blueprint for how the system will work.
+Implementation (Coding) – Developers write the actual software.
+Testing – Check for bugs and ensure the software works correctly.
+Deployment – Release the software for users.
+Maintenance – Fix issues, update, and improve the software over time.
+
+
+**Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Approach: Waterfall is step-by-step and sequential, while Agile is flexible and iterative.**
+
+Flexibility: Waterfall has fixed requirements, whereas Agile allows constant changes.
+Testing: Waterfall tests after development, but Agile does continuous testing throughout.
+Customer Involvement: Waterfall has minimal client feedback, while Agile includes regular collaboration.
+Speed: Waterfall takes longer but is predictable, while Agile is faster and adapts quickly.
+Best Use Cases for Each
+
+**Waterfall is best for:**
+Government, healthcare, and construction projects that need strict planning.
+Large-scale systems with stable requirements and low changes expected.
+
+Agile is best for:
+Startups, web apps, and mobile apps that need frequent updates.
+AI and evolving tech projects where requirements change often.
+
+
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+A Software Developer writes, tests, and maintains code, ensuring the software functions efficiently and meets project requirements.
+
+A Quality Assurance (QA) Engineer designs and executes tests to identify bugs, automate testing processes, and ensure the software meets quality standards.
+
+A Project Manager (PM) oversees the development process, managing timelines, resources, and communication to ensure project success.
+
+
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
+An Integrated Development Environment (IDE), like Visual Studio Code or PyCharm, provides tools for writing, testing, and debugging code, improving developer productivity.
+
+A Version Control System (VCS), such as Git or SVN, tracks code changes, enables collaboration, and helps manage different versions of a project efficiently.
+
+
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
+Debugging Issues – Troubleshooting bugs can be time-consuming.
+ Use debugging tools and structured error logs.
+
+Keeping Up with Technology – Rapid changes make learning essential.
+ Follow tech blogs, take courses, and build projects.
+
+Meeting Deadlines – Tight schedules can impact quality.
+ Use Agile methods, break tasks into sprints, and prioritize work.
+
+Handling Complex Codebases – Large projects are hard to manage.
+ Write modular, well-documented code and use Git.
+
+Team Collaboration – Miscommunication slows progress.
+Use tools like GitHub, Jira, and Slack for coordination.
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
+
+#Part 2: Introduction to AI and Prompt Engineering
+
+
+Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering is the art of crafting precise inputs to optimize AI responses, ensuring accuracy, clarity, and efficiency in various applications.
+
+Prompt engineering improves AI interactions by enhancing response accuracy, reducing ambiguity, and optimizing efficiency across various tasks
+
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt:
+"Tell me about the Amazon forest."
+
+Improved Prompt:
+"Provide an overview of the Amazon Rainforest, including its biodiversity, major threats, and conservation efforts."
+
+Why It’s More Effective:
+The improved prompt is clearer and more specific, guiding the AI to focus on key aspects—biodiversity, threats, and conservation—rather than giving a broad, unfocused response.
